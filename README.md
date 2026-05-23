@@ -15,7 +15,7 @@ I am JHON KIVEN LUCIO who enjoys electronics, Arduino projects, PCB design, prog
    -playing basketball
    -outing
    -cooking
-   -Schematic diagram
+   
 
 ---------------------------------------------
 
