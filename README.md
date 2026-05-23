@@ -46,19 +46,10 @@ ESP32 Expansion board
 
 ## Contact 09941372647
 
-GitHub: Laurenzefronda-star
+GitHub:jhonkivenlucio22-star
+       jhonkivenlucio22@gmail.com
 
-frondafamily002@gmail.com
-
-Share
-
-Favorite
-
-Edit
-
-Delete
-
-More
+THANKS FOR VISITINGMYp PORTFOLIO😜🩷
 
 
 
