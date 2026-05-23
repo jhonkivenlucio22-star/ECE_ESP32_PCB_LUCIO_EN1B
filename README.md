@@ -6,14 +6,18 @@
 ---------------------------------------------
 
 ##📍Location
-   -Linapacan,Palawan
+  
+ -Linapacan,Palawan
 
 ---------------------------------------------
 
 ##🎯 Hobbies
-   -playing basketball
-   -outing
-   -cooking
+  
+ -playing basketball
+
+ -outing
+
+ -cooking
    
 
 ---------------------------------------------
