@@ -2,7 +2,6 @@
 
 ## JHON KIVEN LUCIO 
 
-I am JHON KIVEN LUCIO who enjoys electronics, Arduino projects, PCB design, program C++, and creating simple design. 
 
 ---------------------------------------------
 
