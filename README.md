@@ -2,16 +2,23 @@
 
 ## About Me
 
-I am JHON KIVEN LUCIO who enjoys electronics, Arduino projects, PCB design, program C++, and creating simple design.
+I am JHON KIVEN LUCIO who enjoys electronics, Arduino projects, PCB design, program C++, and creating simple design. 
+
+---------------------------------------------
 
 ##📍Location
    -Linapacan,Palawan
+
+---------------------------------------------
 
 ##🎯 Hobbies
    -playing basketball
    -outing
    -cooking
    -Schematic diagram
+
+---------------------------------------------
+
 
 ##💻 Skills
 
@@ -28,6 +35,9 @@ I am JHON KIVEN LUCIO who enjoys electronics, Arduino projects, PCB design, prog
 |---------|---------|
 
 
+---------------------------------------------
+
+
 ##📁 Project
 
 ###* Solar tracker ptoject using C++.
@@ -37,9 +47,13 @@ ESP32 Expansion board
 
 ### PCB Design Practice Created PCB layouts using EasyEDA. ,Create Schematic using EasyEDA.
 
+-----------------------------------------------
+
 ##🍲 Favorite Food
    - Adobo
    - Fried Chicken
+
+----------------------------------------------
 
 ## future Goals
    -To become a professional engineering.
@@ -49,7 +63,7 @@ ESP32 Expansion board
 GitHub:jhonkivenlucio22-star
        jhonkivenlucio22@gmail.com
 
-THANKS FOR VISITINGMYp PORTFOLIO😜🩷
+THANKS FOR VISITING MY PORTFOLIO😜🩷
 
 
 
